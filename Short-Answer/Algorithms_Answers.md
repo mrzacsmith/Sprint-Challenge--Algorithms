@@ -9,7 +9,7 @@ a) O(n) Mathematically n^3/n^2 = n, however stepping it out, the algorithm will 
 | 2 | 2 |
 | 8 | 8 |
 
-b) O(n^2) because nested loop
+b) O(n^2) because nested loop.
 
 c) O(1) as n is not called, however if n = bunnies then it would be O(n). It is recursive and reduces by 1 each recursive step.
 
